@@ -1,4 +1,4 @@
-zce-5.5-study
-=============
+Zend PHP 5.5 Certification Exam Study Notes
+===========================================
 
-Study notes for the Zend Certification Exam (for PHP 5.5)
+[Everything is on the wiki](https://github.com/chinthakagodawita/zce-5.5-study/wiki)
